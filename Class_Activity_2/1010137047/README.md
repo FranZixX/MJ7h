@@ -31,7 +31,7 @@ Desde la carpeta raíz `1010137047/`, ejecuta:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 2. Iniciar los servicios
 
 # Terminal 1 – Servicio de usuarios
